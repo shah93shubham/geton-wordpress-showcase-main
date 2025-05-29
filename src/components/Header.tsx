@@ -94,7 +94,11 @@ const Header = () => {
                   </ul>
                 </NavigationMenuContent>
               </NavigationMenuItem>
+              </NavigationMenuList>
+          </NavigationMenu>
 
+<NavigationMenu>
+            <NavigationMenuList>
               <NavigationMenuItem>
                 <NavigationMenuTrigger className="font-medium text-black hover:text-[#707070]">
                   Services
@@ -139,7 +143,11 @@ const Header = () => {
                   </div>
                 </NavigationMenuContent>
               </NavigationMenuItem>
+              </NavigationMenuList>
+          </NavigationMenu>
 
+<NavigationMenu>
+            <NavigationMenuList>
               <NavigationMenuItem>
                 <NavigationMenuTrigger className="font-medium text-black hover:text-[#707070]">
                   Products
@@ -163,7 +171,11 @@ const Header = () => {
                   </ul>
                 </NavigationMenuContent>
               </NavigationMenuItem>
+              </NavigationMenuList>
+          </NavigationMenu>
 
+<NavigationMenu>
+            <NavigationMenuList>
               <NavigationMenuItem>
                 <NavigationMenuTrigger className="font-medium text-black hover:text-[#707070]">
                   Industries
